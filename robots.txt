@@ -1,0 +1,3 @@
+# Bob, remove the vulnerability present in /downloads.php
+User-agent: *
+Disallow: /downloads.php
